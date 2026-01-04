@@ -1,17 +1,26 @@
 # 3D-EM Twin
 
-This repository provides the reference implementation and demo platform for the following paper:
+This repository provides the reference implementation and demo materials for the following paper:
 
 **3D-EM Twin: High-Fidelity 3D Radio Digital Twin for Low-Altitude Aerial Networking and Operations**  
 Honggang Jia, Nan Cheng, Xiucheng Wang, Ruijin Sun, Zhisheng Yin  
 School of Telecommunications Engineering, Xidian University
 
-## 🌐 Online Demo
+## 🎥 Demo
 
-An interactive web-based demo is available and can be accessed directly via a browser (no local installation required):
+### Demo Video
 
-👉 **Demo Link:**  
-（请在这里填写你的 Demo 访问链接）
+A recorded demo video is provided to illustrate the complete workflow of **3D-EM Twin**, including 3D radio field construction, interactive visualization, and connectivity-aware route planning.
+
+👉 **Video Link:**  
+（请在这里填写 Demo 视频链接，例如 GitHub / Bilibili / YouTube）
+
+### Live Demo
+
+An interactive web-based live demo is available during presentations or on demand.  
+The live demo is implemented using a Gradio-based dashboard and runs on a GPU-enabled server to support real-time interaction.
+
+Please contact the authors if you would like to access the live demo.
 
 The demo allows users to:
 - Explore altitude-dependent 2D radio coverage slices  
@@ -20,8 +29,8 @@ The demo allows users to:
 
 ## 📦 Repository Status
 
-This repository currently focuses on providing access to the demo and reference materials.  
-Additional documentation may be released in future updates.
+This repository currently focuses on providing access to demo materials and reference information.  
+Additional documentation or code may be released in future updates.
 
 ## 📜 License
 
