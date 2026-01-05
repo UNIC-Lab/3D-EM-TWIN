@@ -13,7 +13,8 @@ School of Telecommunications Engineering, Xidian University
 A recorded demo video is provided to illustrate the complete workflow of **3D-EM Twin**, including 3D radio field construction, interactive visualization, and connectivity-aware route planning.
 
 👉 **Video Link:**  
-........
+
+https://drive.google.com/file/d/1eYS-kwwLMonaSJ7_5YcLWX0MlRd88Syl/view?usp=drive_link
 
 ### Live Demo
 
