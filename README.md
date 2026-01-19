@@ -15,6 +15,7 @@ A recorded demo video is provided to illustrate the complete workflow of **3D-EM
 👉 **Video Link:**  
 
 https://drive.google.com/file/d/1eYS-kwwLMonaSJ7_5YcLWX0MlRd88Syl/view?usp=sharing
+https://drive.google.com/file/d/1La1lUhRwwSGXRbJJT_NN158b2CWeEFkB/view?usp=drive_link
 
 ### Live Demo
 
